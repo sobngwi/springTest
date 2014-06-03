@@ -8,4 +8,5 @@ http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
 		<property name="firstName" value="Alain Narcisse" />
 	</bean>
 	
+	
 </beans>
